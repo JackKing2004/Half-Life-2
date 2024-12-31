@@ -1,15 +1,15 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
+		"name": "Combine",
+		"leaderName": "Wallace Breen",
 		"adjective": ["alien"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "Test",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "You will fall in less than 7 turns.",
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
@@ -30,9 +30,9 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["City 17","City 15","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+			"a"]
 	}
 ]
