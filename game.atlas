@@ -1,12 +1,12 @@
 
 game.png
-size: 512, 128
+size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Breeders
   rotate: false
-  xy: 112, 4
+  xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -18,9 +18,16 @@ BuildingIcons/Holodeck
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+NationIcons/Combine
   rotate: false
-  xy: 4, 4
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The resistance
+  rotate: false
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

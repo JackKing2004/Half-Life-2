@@ -6,26 +6,26 @@
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "Test",
+		"startIntroPart1": "We need to conquer the world in less than 7 hours",
+		"startIntroPart2": "no diplomacy, just conquer",
 		
 		"declaringWar": "You will fall in less than 7 turns.",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"attacked": "So you try to attack me?",
+		"defeated": "You only destroyed this city.",
+		"introduction": "Hello fellow citizen.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Citizen, what do you want?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "I do not recommend talking with me right now",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "You are very lucky that i didn't conquer you.",
+		"tradeRequest": "Shall we trade?",
 
 		"outerColor": [16,16,16],
 		"innerColor": [3,132,252],
@@ -43,12 +43,12 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We need to destroy the combines!!",
-		"startIntroPart2": "Test",
+		"startIntroPart2": "They are the worst of everything",
 		
 		"declaringWar": "We think that you don't need other reason to exist.",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"attacked": "We are rebels, you cannot defeat us forever.",
+		"defeated": "We will rise again...",
+		"introduction": "Hey, want to help us?.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
